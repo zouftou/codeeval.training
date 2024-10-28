@@ -1,1 +1,1 @@
-# codeeval.training
+# Repository for Code Eval Online Challenges
